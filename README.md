@@ -1,8 +1,8 @@
 # HTTP protocol redirector
-[![pages-build-deployment](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/nateyoder/http-protocol-redirector/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nateyoder/http-protocol-redirector/actions/workflows/pages/pages-build-deployment)
 
 ```
-https://intradeus.github.io/http-protocol-redirector?r=
+https://nateyoder.github.io/http-protocol-redirector?r=
 ```
 
 ## Why 
@@ -17,7 +17,7 @@ No analytics, no nonsense, just 2 lines of code.
 (There are no plans to add a shorter domain for now, as github.io has more chance to be alive in 10 years than my own domain.)
 
 ## How 
-Simply add `https://intradeus.github.io/http-protocol-redirector?r=` in front of your own URL with your own protocol, and it'll forward it.
+Simply add `https://nateyoder.github.io/http-protocol-redirector?r=` in front of your own URL with your own protocol, and it'll forward it.
 
 
 Let's say you have the [ms-vscode.remote-repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub) extension for vscode and want your team to open a link.
